@@ -8,7 +8,7 @@ Simulated annealing is an algorithm which aims to find local minimum of the func
 3) Solving sudoku
 ### Each problem is described further in Jupyter files.
 
-### Possible outcomes of a bitmap problem, as it too large to be kept in .ipnby file.
+### Possible outcomes of a bitmap problem, as it is too large to be kept in .ipnby file.
 ![Alt text](images/christmas_tree_neibourhood.png?raw=true "chistmas_tree")
 
 ![Alt text](images/results_2.png?raw=true "fun_result")
